@@ -1,2 +1,2 @@
 # ML-From-Scratch
-This is a collection of notebooks designed to provide a very basic but deep understanding of how ML Models work. These implementations are meant for educational purposes and should not be used in production. These implementation are done in base python with only the use of the builtin random and typing modules. Any use of external libraries are only for demonstrations and comparison purposes.
+This is a collection of notebooks designed to provide a deep understanding of how ML Models work. These implementations are meant for educational purposes and should not be used in production. They are created in base python with only the use of the builtin random and typing modules. Any use of external libraries are only for demonstration and comparison purposes.
