@@ -15,6 +15,10 @@ seaborn = "^0.13.2"
 watermark = "^2.5.0"
 
 
+
+[tool.poetry.group.dev.dependencies]
+nbconvert = "^7.16.4"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
